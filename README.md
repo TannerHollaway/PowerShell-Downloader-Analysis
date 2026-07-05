@@ -65,6 +65,8 @@ From the URL array fragment `(/+wm.mcdeve+lop.net+/+c+on+t+e)+(nt+/)+6+(F2+gd/)`
 **Answer:** `Emotet`  
 OSINT lookup of `wm.mcdevelop.net` ties the C2 to Emotet; the behavior (heavily obfuscated PS downloader, multiple C2 URLs, `.dll` payload run via `rundll32 Control_RunDLL`) matches Emotet TTPs.
 
+![Answers](images/answers.jpg)
+
 ---
 
 ## IOCs
