@@ -73,7 +73,6 @@ OSINT lookup of `wm.mcdevelop.net` ties the C2 to Emotet; the behavior (heavily 
 
 | Type | Value |
 |------|-------|
-| SHA256 | |
 | Domain / IP | wm.mcdevelop.net/wp-content/6F2gd/ (C2) |
 | File / Path | A69S.dll ; %HOME%\Db_bh30\Yf5be5g\ |
 
